@@ -49,12 +49,13 @@ a {
 .contacts {
   font-style: normal;
 }
-.contacts-item {
+.contacts-element {
+
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts-item:hover,
-.contacts-item:focus
+.contacts-element:hover,
+.contacts-element:focus
  {
   color: #404BBF;
 }
